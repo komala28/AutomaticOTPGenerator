@@ -1,0 +1,17 @@
+{
+  "name": "netstackproject",
+  "version": "1.0.0",
+  "description": "Abuse Resistant OTP System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Komali",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.2.1"
+  }
+}
